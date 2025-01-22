@@ -22,4 +22,4 @@ Este script está diseñado para extraer nombres de productos y URLs de imágene
 1. Coloca el archivo `kemik.html` en el mismo directorio que el script.
 2. Ejecuta el script con el siguiente comando:
    ```bash
-   python script.py
+   python web.py
